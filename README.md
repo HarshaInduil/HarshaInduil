@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsha Indunil Ranepura 👋
 
-## I'm a trainee full stack developer
+## I'm a full stack developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
